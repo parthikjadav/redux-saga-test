@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "36ae",
+      "username": "hello 2",
+      "password": "12"
+    },
+    {
+      "id": "5fc5",
+      "username": "hello 3",
+      "password": "123"
+    },
+    {
+      "id": "1faf",
+      "username": "admindh",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "5e19",
+      "name": "hello",
+      "price": 123,
+      "description": "hello world",
+      "avaliblity": true
+    },
+    {
+      "id": "577c",
+      "name": "hello2",
+      "description": "this is hello2",
+      "price": "222",
+      "avaliblity": true
+    }
+  ]
+}
